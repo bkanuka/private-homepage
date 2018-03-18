@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+# Edit data/links.yml
+hugo
+sudo rm -rf /var/www/homepage
+sudo cp -a /home/bkanuka/homepage/public /var/www/homepage

@@ -1,0 +1,96 @@
+tiles:
+-
+  name: "home control"
+  url: "https://home.bkanuka.com/red/ui"
+  img: "logos/node-red-flat.svg"
+  tags: ["server"]
+-
+  name: "files"
+  url: "https://home.bkanuka.com/files"
+  img: "logos/folder.svg"
+  tags: ["server"]
+-
+  name: "plex"
+  url: "https://app.plex.tv/desktop"
+  img: "logos/plex.png"
+  tags: ["fun"]
+-
+  name: "domoticz"
+  url: "https://home.bkanuka.com/domoticz"
+  img: "logos/domoticz.svg"
+  tags: ["server"]
+-
+  name: "guacamole"
+  url: "https://home.bkanuka.com/guacamole"
+  img: "logos/guacamole.png"
+  tags: ["server"]
+-
+  name: "glances"
+  url: "https://home.bkanuka.com/glances"
+  img: "logos/glances.svg"
+  tags: ["server"]
+-
+  name: "sabnzbd"
+  url: "https://home.bkanuka.com/sabnzbd"
+  img: "logos/sabnzbd-flat.svg"
+  tags: ["server"]
+-
+  name: "transmission"
+  url: "https://home.bkanuka.com/transmission"
+  img: "logos/transmission-flat.svg"
+  tags: ["server"]
+-
+  name: "radarr"
+  url: "https://home.bkanuka.com/radarr"
+  img: "logos/radarr.png"
+  tags: ["server"]
+-
+  name: "sonarr"
+  url: "https://home.bkanuka.com/sonarr"
+  img: "logos/sonarr.png"
+  tags: ["server"]
+-
+  name: "plexpy"
+  url: "https://home.bkanuka.com/plexpy/home"
+  img: "logos/plexpy.png"
+  tags: ["server"]
+-
+  name: "plexrequests"
+  url: "https://home.bkanuka.com/plexrequests"
+  img: "logos/plexrequests.png"
+  tags: ["server"]
+-
+  name: "dashboard"
+  url: "https://home.bkanuka.com/dashboard/home"
+  img: "logos/dashboard.svg"
+  tags: ["server"]
+-
+  name: "camera - outside"
+  url: "https://home.bkanuka.com/motioneye/picture/2/frame/"
+  img: "logos/camera1.svg"
+  tags: ["server"]
+-
+  name: "camera - inside"
+  url: "https://home.bkanuka.com/motioneye/picture/1/frame/"
+  img: "logos/camera2.svg"
+  tags: ["server"]
+-
+  name: "jackett"
+  url: "https://home.bkanuka.com/jackett"
+  img: "logos/jackett.svg"
+  tags: ["server"]
+-
+  name: "nzbhydra"
+  url: "https://home.bkanuka.com/nzbhydra"
+  img: "logos/nzbhydra.svg"
+  tags: ["server"]
+-
+  name: "unifi"
+  url: "https://192.168.1.10:8443/manage"
+  img: "logos/unifi.svg"
+  tags: ["server"]
+-
+  name: "node-red"
+  url: "https://home.bkanuka.com/red"
+  img: "logos/node-red-flat.svg"
+  tags: ["server"]
