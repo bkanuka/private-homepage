@@ -15,6 +15,16 @@ tiles:
   img: "logos/plex.png"
   tags: ["fun"]
 -
+  name: "calibre"
+  url: "https://home.bkanuka.com/calibre"
+  img: "logos/calibre-web.png"
+  tags: ["fun"]
+-
+  name: "ombi"
+  url: "https://home.bkanuka.com/ombi"
+  img: "logos/ombi.png"
+  tags: ["server"]
+-
   name: "domoticz"
   url: "https://home.bkanuka.com/domoticz"
   img: "logos/domoticz.svg"
@@ -23,6 +33,11 @@ tiles:
   name: "guacamole"
   url: "https://home.bkanuka.com/guacamole"
   img: "logos/guacamole.png"
+  tags: ["server"]
+-
+  name: "jupyter"
+  url: "https://home.bkanuka.com/jupyter"
+  img: "logos/jupyter.png"
   tags: ["server"]
 -
   name: "glances"
@@ -50,14 +65,9 @@ tiles:
   img: "logos/sonarr.png"
   tags: ["server"]
 -
-  name: "plexpy"
-  url: "https://home.bkanuka.com/plexpy/home"
-  img: "logos/plexpy.png"
-  tags: ["server"]
--
-  name: "plexrequests"
-  url: "https://home.bkanuka.com/plexrequests"
-  img: "logos/plexrequests.png"
+  name: "tautulli"
+  url: "https://home.bkanuka.com/tautulli/home"
+  img: "logos/tautulli.png"
   tags: ["server"]
 -
   name: "dashboard"
@@ -86,8 +96,8 @@ tiles:
   tags: ["server"]
 -
   name: "unifi"
-  url: "https://192.168.1.10:8443/manage"
-  img: "logos/unifi.svg"
+  url: "https://unifi.home.bkanuka.com/manage"
+  img: "logos/ubiquiti-networks.svg"
   tags: ["server"]
 -
   name: "node-red"
